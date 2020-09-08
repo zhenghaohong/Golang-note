@@ -1,0 +1,17 @@
+// 常见的数据结构类型
+
+struct
+map
+array
+
+
+// time search
+
+
+
+
+
+//scrapy principle
+
+ 
+
